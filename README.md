@@ -12,8 +12,8 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   kemal-flash:
-    github: neovintage/kemal-flash
-    version: 0.1.0
+    github: crystal-china/kemal-flash
+    version: 0.2.0
 ```
 
 ## Usage
